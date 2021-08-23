@@ -1,5 +1,5 @@
 nlp_venv
 .vscode
-translation/
-magic_the_gathering/mtg_data
-language_detection/output.txt
+NLP/translation/
+NLP/magic_the_gathering/mtg_data
+NLP/language_detection/output.txt
